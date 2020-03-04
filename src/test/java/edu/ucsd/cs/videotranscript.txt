@@ -1,0 +1,4 @@
+Wed Feb 26 15:29:01 PST 2020,24,Starting VideoTarget
+Wed Feb 26 15:29:01 PST 2020,35,chunk_num: 1,chunk_quality: 5,chunk_len: 4096,chunk_hash: ef354637a897736577190f873c1e159517dbff300b4fa40af749102f0a4eb696
+Wed Feb 26 15:29:03 PST 2020,1545,chunk_num: 2,chunk_quality: 3,chunk_len: 4096,chunk_hash: 81a9e02d1ad0d0047f894270e9f21ea11b45f5fff0406b0ff31d66d7f7041543
+Wed Feb 26 15:29:05 PST 2020,3849,chunk_num: 3,chunk_quality: 3,chunk_len: 4096,chunk_hash: 161b881cb7ac368ad5d0af480a2c433c7e2808aee0cc1b81698fbb8f9b88d032
